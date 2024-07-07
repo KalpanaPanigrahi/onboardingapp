@@ -1,0 +1,321 @@
+{
+    "summary": "I am proficient in a number of programming languages and operating systems. Integrating software and hardware to create a fascinating technology with the goal of solving every day problems is my passion. Skilled in C, C++, Python, MATLAB, Multisim, Presentations, Strategy, and Research.",
+    "industryName": "IT Services and IT Consulting",
+    "lastName": "GOUDA",
+    "locationName": "India",
+    "student": false,
+    "geoCountryName": "India",
+    "geoCountryUrn": "urn:li:fs_geo:102713980",
+    "geoLocationBackfilled": false,
+    "elt": true,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "SUBHASIS",
+    "entityUrn": "urn:li:fs_profile:ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:101313793"
+    },
+    "geoLocationName": "Rayagada, Odisha",
+    "location": {
+        "basicLocation": {
+            "countryCode": "in"
+        }
+    },
+    "headline": "Intern at GyanSys | Electronics and Telecommunication | VSSUT BURLA | IDEA INNOVATION CELL",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D4D03AQFIq_2Y-O6rTA/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1693328900825?e=1725494400&v=beta&t=DVjAbt5MqTMgwn3ZaWGXho3i3NTYgHg-1aZ1q2eLhic",
+    "img_200_200": "200_200/0/1693328900825?e=1725494400&v=beta&t=jmHmRfUkRXwZh_WunJ48rcuQQqw7or8AqsIewarzFEg",
+    "img_400_400": "400_400/0/1693328900825?e=1725494400&v=beta&t=F2DSifOl0TaePo9iAdxH77RAT1R3uBXS_kJ0mAiaUbM",
+    "img_800_800": "800_800/0/1693328900825?e=1725494400&v=beta&t=Hk-5m_fF228zMJi4fdFbne-nkk5RD_5N1kpdOd3fpEA",
+    "profile_id": "ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ",
+    "member_urn": "urn:li:member:901310674",
+    "public_id": "subhasis-gouda-9aaa1b211",
+    "experience": [
+        {
+            "locationName": "Bengaluru, Karnataka, India",
+            "entityUrn": "urn:li:fs_position:(ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ,2340533967)",
+            "geoLocationName": "Bengaluru, Karnataka, India",
+            "geoUrn": "urn:li:fs_geo:105214831",
+            "companyName": "GyanSys Inc.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Graduate Trainee",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:427685",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFFQZvNPrczUQ/company-logo_"
+        },
+        {
+            "locationName": "Sambalpur, Odisha, India",
+            "entityUrn": "urn:li:fs_position:(ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ,2133147029)",
+            "geoLocationName": "Sambalpur, Odisha, India",
+            "geoUrn": "urn:li:fs_geo:101436866",
+            "companyName": "ISRO VSSUT Space Innovation Centre",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Research"
+                ]
+            },
+            "title": "Core electronics member ",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:74037724",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQF9bfy0lTVskQ/company-logo_"
+        },
+        {
+            "locationName": "Sambalpur, Orissa, India",
+            "entityUrn": "urn:li:fs_position:(ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ,1906599880)",
+            "geoLocationName": "Sambalpur, Orissa, India",
+            "geoUrn": "urn:li:fs_geo:101436866",
+            "companyName": "Idea and Innovation Cell, VSSUT, Burla",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "description": "I am a technical core member at Idea Innovation Cell, the official Innovation Cell at VSSUT. I serve the team in the coding and electronics domain by building electronic sub-systems for the model rocket using Arduino. Along with electronics, I am also a part of the content writing Team.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Research"
+                ]
+            },
+            "title": "Technical Team Member",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:13252616",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQFLW4BrqDqwaA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ,2181916667)",
+            "companyName": "Suvidha Foundation (Suvidha Mahila Mandal)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ]
+            },
+            "title": "Machine Learning Intern",
+            "companyUrn": "urn:li:fs_miniCompany:75051422",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQF97Cbv5ALLzA/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ,723826497)",
+            "school": {
+                "objectUrn": "urn:li:school:373025",
+                "entityUrn": "urn:li:fs_miniSchool:373025",
+                "active": true,
+                "schoolName": "Veer Surendra Sai University Of Technology ( Formerly UCE ), Burla",
+                "trackingId": "j9AgWUWCTn+05u6SS6pckQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFf6e-DxNvsnw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2024
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "degreeName": "Bachelor of Technology - BTech",
+            "schoolName": "Veer Surendra Sai University Of Technology ( Formerly UCE ), Burla",
+            "fieldOfStudy": "Electronics and Telecommunication",
+            "schoolUrn": "urn:li:fs_miniSchool:373025"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ,723826636)",
+            "grade": "93.2 %",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "degreeName": "12th",
+            "schoolName": "Laxmipat Singhania Public School, Rayagada",
+            "fieldOfStudy": "Science"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ,723832047)",
+            "school": {
+                "objectUrn": "urn:li:school:3196820",
+                "entityUrn": "urn:li:fs_miniSchool:3196820",
+                "active": true,
+                "schoolName": "St. Xavier High School",
+                "trackingId": "1hIkpFIaT9mrz33EsGwmdA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D560BAQEzIDIGYssC5w/company-logo_"
+            },
+            "grade": "86.7",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "degreeName": "10th",
+            "schoolName": "St. Xavier High School, Rayagada",
+            "schoolUrn": "urn:li:fs_miniSchool:3196820"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "Udemy",
+            "name": "100 Days of Code: The Complete Python Pro Bootcamp",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "UC-d59fe2b3-6018-4dd6-95d7-ad7d594b2e86",
+            "company": {
+                "objectUrn": "urn:li:company:822535",
+                "entityUrn": "urn:li:fs_miniCompany:822535",
+                "name": "Udemy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630536914848/udemy_logo?e=1728518400&v=beta&t=tTw2ULtHmMBnFrt5w3OXtF4L7ZsvwdKqOTvLp0tSNrk",
+                                "expiresAt": 1728518400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630536914848/udemy_logo?e=1728518400&v=beta&t=XNatgr_tbM1FAFjyWu5rJ2Bdc8atnsmqR1zAR1PZKhw",
+                                "expiresAt": 1728518400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630536914848/udemy_logo?e=1728518400&v=beta&t=suv0fxP3MSHwpBIoDznDIfz4u1FFVojy8rO-A1isZQc",
+                                "expiresAt": 1728518400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                    }
+                },
+                "universalName": "udemy",
+                "dashCompanyUrn": "urn:li:fsd_company:822535",
+                "trackingId": "Jrs4KJBGRUGlRpO3Ycpcuw=="
+            },
+            "displaySource": "udemy.com",
+            "companyUrn": "urn:li:fs_miniCompany:822535",
+            "url": "https://www.udemy.com/certificate/UC-d59fe2b3-6018-4dd6-95d7-ad7d594b2e86/"
+        },
+        {
+            "authority": "Postman",
+            "name": "Postman API Fundamentals Student Expert",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:3795851",
+                "entityUrn": "urn:li:fs_miniCompany:3795851",
+                "name": "Postman",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1654794308958/postman_platform_logo?e=1728518400&v=beta&t=4PtLZqdANAdhOCGikOKLaTSIo2uFUSjk-BR-AuiLjWk",
+                                "expiresAt": 1728518400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1654794308958/postman_platform_logo?e=1728518400&v=beta&t=UU6fE-jpzOXa79tHQwFWirg-4kd1UCx2GpQMeSf91Tw",
+                                "expiresAt": 1728518400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1654794308958/postman_platform_logo?e=1728518400&v=beta&t=Poj9bkcXO6aG7neqAmrArSA3DZfDe4o2tJlZzGhYZuo",
+                                "expiresAt": 1728518400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C560BAQFf8sH83foEVg/company-logo_"
+                    }
+                },
+                "universalName": "postman-platform",
+                "dashCompanyUrn": "urn:li:fsd_company:3795851",
+                "trackingId": "qveIXY+rSJydxijtT4yy4w=="
+            },
+            "displaySource": "badgr.io",
+            "companyUrn": "urn:li:fs_miniCompany:3795851",
+            "url": "https://api.badgr.io/public/assertions/0UtJiKwVQnazxVE3O7AZyw?identity__email=goudasonu00%40gmail.com"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Postman API"
+        },
+        {
+            "name": "Arduino IDE"
+        },
+        {
+            "name": "Arduino"
+        },
+        {
+            "name": "Python (Programming Language)"
+        }
+    ],
+    "urn_id": "ACoAADW46NIBbF5oT3Tvew3F0dD6nHgy8KWoyHQ"
+}

@@ -1,0 +1,265 @@
+{
+    "industryName": "IT Services and IT Consulting",
+    "lastName": "Panigrahi",
+    "locationName": "India",
+    "student": false,
+    "geoCountryName": "India",
+    "geoCountryUrn": "urn:li:fs_geo:102713980",
+    "geoLocationBackfilled": false,
+    "elt": true,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Kalpana",
+    "entityUrn": "urn:li:fs_profile:ACoAADQg6WwBjdSpX5WkRWtAkHecBiw5D89GXe4",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:100514815"
+    },
+    "geoLocationName": "Brahmapur, Odisha",
+    "location": {
+        "basicLocation": {
+            "countryCode": "in"
+        }
+    },
+    "headline": "GET at GyanSys .Inc Bangalore",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/D5603AQGn-XvuJ-zmlg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1718251693536?e=1725494400&v=beta&t=Y6n30-da625dgFRV3sGHWyJvFcLIVAselVlV4nWxoT4",
+    "img_200_200": "200_200/0/1718253010423?e=1725494400&v=beta&t=QqR8jiWE6CfWDuqcC5meDovwbOsP4rTjANEi-3Jppzc",
+    "img_400_400": "400_400/0/1718257278318?e=1725494400&v=beta&t=A9oG01VGSOOPfTkBMVmUffCAvQ3baVEJj1Ds6ull_ck",
+    "img_800_800": "800_800/0/1718241845515?e=1725494400&v=beta&t=6MHtpfvxfBOW04DQ4JJJLlngQoGKYp3j3Xo14VijBWA",
+    "profile_id": "ACoAADQg6WwBjdSpX5WkRWtAkHecBiw5D89GXe4",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAADQg6WwBjdSpX5WkRWtAkHecBiw5D89GXe4",
+    "member_urn": "urn:li:member:874572140",
+    "public_id": "kalpana-panigrahi-178a86204",
+    "experience": [
+        {
+            "locationName": "Bengaluru, Karnataka, India",
+            "entityUrn": "urn:li:fs_position:(ACoAADQg6WwBjdSpX5WkRWtAkHecBiw5D89GXe4,2340430655)",
+            "geoLocationName": "Bengaluru, Karnataka, India",
+            "geoUrn": "urn:li:fs_geo:105214831",
+            "companyName": "GyanSys Inc.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ]
+            },
+            "title": "Graduate Engineering Trainee",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:427685",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFFQZvNPrczUQ/company-logo_"
+        },
+        {
+            "locationName": "Jamshedpur, Jharkhand, India",
+            "entityUrn": "urn:li:fs_position:(ACoAADQg6WwBjdSpX5WkRWtAkHecBiw5D89GXe4,2305436976)",
+            "geoLocationName": "Jamshedpur, Jharkhand, India",
+            "geoUrn": "urn:li:fs_geo:102779754",
+            "companyName": "Tata Steel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "description": "STUDY OF AUTOMATION SYSTEM IN STACKER RECLAIMER MACHINE .",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Mining & Metals"
+                ]
+            },
+            "title": "Vocational Trainee",
+            "region": "urn:li:fs_region:(in,7195)",
+            "companyUrn": "urn:li:fs_miniCompany:166262",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQEdQIE0htk3-Q/company-logo_"
+        },
+        {
+            "locationName": "Bhubaneswar, Odisha, India",
+            "entityUrn": "urn:li:fs_position:(ACoAADQg6WwBjdSpX5WkRWtAkHecBiw5D89GXe4,2181350951)",
+            "geoLocationName": "Bhubaneswar, Odisha, India",
+            "geoUrn": "urn:li:fs_geo:112154036",
+            "companyName": "Bharat Sanchar Nigam Limited",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "description": "Here i am  learn about\n IP addressing\nIoT\nRouting concept\nIntroduction to CISCO PACKET TRACER",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ]
+            },
+            "title": "Industrial Training",
+            "region": "urn:li:fs_region:(in,0)",
+            "companyUrn": "urn:li:fs_miniCompany:10320",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQFeqSn-BIRwcg/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAADQg6WwBjdSpX5WkRWtAkHecBiw5D89GXe4,701193820)",
+            "school": {
+                "objectUrn": "urn:li:school:3234858",
+                "entityUrn": "urn:li:fs_miniSchool:3234858",
+                "active": true,
+                "schoolName": "Veer Surendra Sai University Of Technology (VSSUT,Formerly UCE), Burla",
+                "trackingId": "Q0hSi+GhSh6yISCGK+0oyQ==",
+                "logoUrl": "https://media.licdn.com/dms/image/C560BAQGhL16U_B0H7w/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2024
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "degreeName": "Bachelor of Technology - BTech",
+            "schoolName": "Veer Surendra Sai University Of Technology (VSSUT,Formerly UCE), Burla",
+            "fieldOfStudy": "electronic and telecommunication engineering",
+            "schoolUrn": "urn:li:fs_miniSchool:3234858"
+        }
+    ],
+    "languages": [],
+    "publications": [],
+    "certifications": [
+        {
+            "authority": "ISRO VSSUT Space Innovation Centre",
+            "name": "Range Over Rocketry Webinar",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "licenseNumber": "RCJ9IyqeQRWUzvbl9xnBt1uvE3V2",
+            "company": {
+                "objectUrn": "urn:li:company:74037724",
+                "entityUrn": "urn:li:fs_miniCompany:74037724",
+                "name": "ISRO VSSUT Space Innovation Centre",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630458911917?e=1728518400&v=beta&t=5tLS66GYsrSd35x5c3cMQ_nx9HulNvs3Q9ioGf4vV2g",
+                                "expiresAt": 1728518400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630458911917?e=1728518400&v=beta&t=bPOTDfbH11eyeh1Mia5oPBVo2KTm81RUGAfOp2JDq4Y",
+                                "expiresAt": 1728518400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630458911917?e=1728518400&v=beta&t=EGEgh9w5JVw9WqMp5pzz0c3iCng0tQ1C4jVhehJr0yI",
+                                "expiresAt": 1728518400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQF9bfy0lTVskQ/company-logo_"
+                    }
+                },
+                "universalName": "vsssic",
+                "dashCompanyUrn": "urn:li:fsd_company:74037724",
+                "trackingId": "IGO96Gu1TgCz0nng35A8qw=="
+            },
+            "displaySource": "iic-vssut.org",
+            "companyUrn": "urn:li:fs_miniCompany:74037724",
+            "url": "https://iic-vssut.org/RangeOverRocketry/login/certificategen/verify.html?RCJ9IyqeQRWUzvbl9xnBt1uvE3V2"
+        },
+        {
+            "authority": "Udemy",
+            "name": "Mastering Data Structures & Algorithms using C and C++",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "licenseNumber": "UC-e2f38795-5daa-4a35-9379-cfdf8ede3d61",
+            "company": {
+                "objectUrn": "urn:li:company:822535",
+                "entityUrn": "urn:li:fs_miniCompany:822535",
+                "name": "Udemy",
+                "showcase": false,
+                "active": true,
+                "logo": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1630536914848/udemy_logo?e=1728518400&v=beta&t=tTw2ULtHmMBnFrt5w3OXtF4L7ZsvwdKqOTvLp0tSNrk",
+                                "expiresAt": 1728518400000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1630536914848/udemy_logo?e=1728518400&v=beta&t=XNatgr_tbM1FAFjyWu5rJ2Bdc8atnsmqR1zAR1PZKhw",
+                                "expiresAt": 1728518400000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1630536914848/udemy_logo?e=1728518400&v=beta&t=suv0fxP3MSHwpBIoDznDIfz4u1FFVojy8rO-A1isZQc",
+                                "expiresAt": 1728518400000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                    }
+                },
+                "universalName": "udemy",
+                "dashCompanyUrn": "urn:li:fsd_company:822535",
+                "trackingId": "mkakY1HcTIq17LijH0jTUw=="
+            },
+            "displaySource": "udemy.com",
+            "companyUrn": "urn:li:fs_miniCompany:822535",
+            "url": "https://www.udemy.com/certificate/UC-e2f38795-5daa-4a35-9379-cfdf8ede3d61/"
+        }
+    ],
+    "volunteer": [],
+    "honors": [],
+    "projects": [],
+    "skills": [
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Wireless Engineering"
+        },
+        {
+            "name": "Communication"
+        }
+    ],
+    "urn_id": "ACoAADQg6WwBjdSpX5WkRWtAkHecBiw5D89GXe4"
+}
